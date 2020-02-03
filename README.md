@@ -1,2 +1,2 @@
 # CppTask
-CppTask, Temel Seviye Android OpenGLES Uygulaması
+CppTask, Temel Seviye Android OpenGL ES Uygulaması
